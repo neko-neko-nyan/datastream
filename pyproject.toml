@@ -16,3 +16,6 @@ requires-python = ">=3.6"
 
 [project.urls]
 Home = "https://github.com/neko-neko-nyan/datastream"
+
+[tool.flit.module]
+name = "datastream"
