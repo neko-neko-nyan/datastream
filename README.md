@@ -6,7 +6,7 @@ Read and write binary files by integer, floats, strings with fixed size.
 ## Installing
 
 ```shell
-pip install datastream
+pip install python-datastream
 ```
 
 ## Usage
